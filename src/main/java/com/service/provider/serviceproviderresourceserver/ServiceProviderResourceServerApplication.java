@@ -1,4 +1,4 @@
-package com.sevice.provider.serviceproviderresourceserver;
+package com.service.provider.serviceproviderresourceserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

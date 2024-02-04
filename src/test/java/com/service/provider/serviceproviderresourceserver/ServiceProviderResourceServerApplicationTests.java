@@ -1,4 +1,4 @@
-package com.sevice.provider.serviceproviderresourceserver;
+package com.service.provider.serviceproviderresourceserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
